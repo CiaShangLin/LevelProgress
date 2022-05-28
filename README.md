@@ -18,3 +18,17 @@
 | ![](https://github.com/CiaShangLin/LevelProgress/blob/master/image/LV3.png)    | ![](https://github.com/CiaShangLin/LevelProgress/blob/master/image/LV5.png)    |
 | ![](https://github.com/CiaShangLin/LevelProgress/blob/master/image/LV7.png)| ![](https://github.com/CiaShangLin/LevelProgress/blob/master/image/LV9.png)|
 | ![](https://github.com/CiaShangLin/LevelProgress/blob/master/image/LV10.png) | |
+
+## 練習客製化下載進度條
+#### DEMO GIF
+[![GIF](https://github.com/CiaShangLin/LevelProgress/blob/master/image/download_progress.gif "GIF")](https://github.com/CiaShangLin/LevelProgress/blob/master/image/download_progress.gif "GIF")
+
+#### 需求圖片
+成功
+[![Success](https://github.com/CiaShangLin/LevelProgress/blob/master/image/success.PNG "Success")](https://github.com/CiaShangLin/LevelProgress/blob/master/image/success.PNG "Success")
+
+暫停
+[![Pause](https://github.com/CiaShangLin/LevelProgress/blob/master/image/pause.PNG "Pause")](https://github.com/CiaShangLin/LevelProgress/blob/master/image/pause.PNG "Pause")
+
+下載中
+[![Downloading](https://github.com/CiaShangLin/LevelProgress/blob/master/image/downloading.PNG "Downloading")](https://github.com/CiaShangLin/LevelProgress/blob/master/image/downloading.PNG "Downloading")
